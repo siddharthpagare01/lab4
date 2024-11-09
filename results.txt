@@ -1,2 +1,5 @@
-This is the initial content of results.txt.
-This is a modification made locally.
+<<<<<<< HEAD
+This is a local change that conflicts with GitHub.
+=======
+This is a modification made directly on GitHub.
+>>>>>>> origin/main
