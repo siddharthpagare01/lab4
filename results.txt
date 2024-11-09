@@ -1,2 +1,5 @@
-This is a modification made directly on GitHub.
+<<<<<<< HEAD
 This is a local change that conflicts with GitHub.
+=======
+This is a modification made directly on GitHub.
+>>>>>>> origin/main
