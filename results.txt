@@ -1,1 +1,2 @@
 This is the initial content of results.txt.
+This is a modification made locally.
